@@ -30,24 +30,6 @@ Array [
   margin-bottom: 8px;
 }
 
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1),
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):link,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):visited {
-  color: #007F6D;
-  -webkit-text-decoration: underline;
-  text-decoration: underline;
-  font-weight: 500;
-}
-
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):hover,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):active,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):focus {
-  outline: none;
-  -webkit-text-decoration: none;
-  text-decoration: none;
-  color: #009882;
-}
-
 <p
     className="c0"
   >
@@ -67,24 +49,6 @@ Array [
   text-align: left;
   margin: 0;
   margin-bottom: 8px;
-}
-
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1),
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):link,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):visited {
-  color: #007F6D;
-  -webkit-text-decoration: underline;
-  text-decoration: underline;
-  font-weight: 500;
-}
-
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):hover,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):active,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):focus {
-  outline: none;
-  -webkit-text-decoration: none;
-  text-decoration: none;
-  color: #009882;
 }
 
 <p
@@ -114,24 +78,6 @@ Array [
   margin: 0;
 }
 
-.c1 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1),
-.c1 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):link,
-.c1 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):visited {
-  color: #007F6D;
-  -webkit-text-decoration: underline;
-  text-decoration: underline;
-  font-weight: 500;
-}
-
-.c1 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):hover,
-.c1 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):active,
-.c1 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):focus {
-  outline: none;
-  -webkit-text-decoration: none;
-  text-decoration: none;
-  color: #009882;
-}
-
 .c2 {
   font-family: 'Roboto',-apple-system,'.SFNSText-Regular','San Francisco','Segoe UI','Helvetica Neue','Lucida Grande',sans-serif;
   font-size: 14px;
@@ -140,24 +86,6 @@ Array [
   line-height: 20px;
   text-align: left;
   margin: 0;
-}
-
-.c2 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1),
-.c2 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):link,
-.c2 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):visited {
-  color: #252A31;
-  -webkit-text-decoration: underline;
-  text-decoration: underline;
-  font-weight: 500;
-}
-
-.c2 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):hover,
-.c2 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):active,
-.c2 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):focus {
-  outline: none;
-  -webkit-text-decoration: none;
-  text-decoration: none;
-  color: #009882;
 }
 
 <div
@@ -263,11 +191,6 @@ exports[`RichText renders correctly with a list with links 1`] = `
 .c1:last-child,
 .c1:last-of-type {
   margin: 0;
-}
-
-.c1 .Text__StyledText-sc-19qtt4y-0 {
-  line-height: inherit;
-  font-size: inherit;
 }
 
 .c2 {
@@ -413,11 +336,6 @@ exports[`RichText renders correctly with a simple list 1`] = `
   margin: 0;
 }
 
-.c1 .Text__StyledText-sc-19qtt4y-0 {
-  line-height: inherit;
-  font-size: inherit;
-}
-
 .c2 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -536,24 +454,6 @@ Array [
   text-align: left;
   margin: 0;
   margin-bottom: 8px;
-}
-
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1),
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):link,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):visited {
-  color: #007F6D;
-  -webkit-text-decoration: underline;
-  text-decoration: underline;
-  font-weight: 500;
-}
-
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):hover,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):active,
-.c0 a:not(.TextLink__StyledTextLink-sc-1bvlje4-1):focus {
-  outline: none;
-  -webkit-text-decoration: none;
-  text-decoration: none;
-  color: #009882;
 }
 
 <p
