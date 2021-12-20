@@ -17,7 +17,7 @@
     "prism-react-renderer": "^1.2.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.4",
+    "@babel/core": "^7.16.5",
     "@kentico/gatsby-source-kontent": "7.2.0",
     "@kiwicom/orbit-components": "^0.120.0",
     "@kiwicom/orbit-design-tokens": "^0.13.10",
