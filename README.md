@@ -1,10 +1,13 @@
-# CollierCZ
-[![Build Status](https://travis-ci.com/CollierCZ/CollierCZ.svg?branch=master)](https://travis-ci.com/CollierCZ/CollierCZ)
-[![Maintainability](https://api.codeclimate.com/v1/badges/764055eac815b4b8c76c/maintainability)](https://codeclimate.com/github/CollierCZ/CollierCZ/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/764055eac815b4b8c76c/test_coverage)](https://codeclimate.com/github/CollierCZ/CollierCZ/test_coverage)
+```txt
+                                   _____      _ _ _           
+     /\                           / ____|    | | (_)          
+    /  \   __ _ _ __ ___  _ __   | |     ___ | | |_  ___ _ __ 
+   / /\ \ / _` | '__/ _ \| '_ \  | |    / _ \| | | |/ _ \ '__|
+  / ____ \ (_| | | | (_) | | | | | |___| (_) | | | |  __/ |   
+ /_/    \_\__,_|_|  \___/|_| |_|  \_____\___/|_|_|_|\___|_|   
+                                                              
+```
 
-A blog built in [Gatsby](https://www.gatsbyjs.org/) with content pulled from [Kentico Kontent](https://kontent.ai)
-
-## Running in development
-`gatsby develop`
-
+I'm a technical writer very interested in the technial side of the job.
+I like tinkering with tools to make the writing process easier
+and I'm always up for learning something new.
